@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superstore Data with Plotly</title>
+    
+    <!-- Include Plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    
+    <!-- Include Data and Script -->
+    <script src="data.js" defer></script>
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <h1>Superstore Data Visualizations (Plotly)</h1>
+    
+    <!-- Dropdown for state selection -->
+    <label for="stateDropdown">Select a State:</label>
+    <select id="stateDropdown"></select>
+    
+    <!-- Divs for charts -->
+    <h2>Yearly Sales and Profit</h2>
+    <div id="yearlyChart" style="width:100%; height:500px;"></div>
+    
+    <h2>Monthly Sales Trend</h2>
+    <div id="monthlyChart" style="width:100%; height:500px;"></div>
+    
+    <h2>State-Level Insights</h2>
+    <div id="stateChart" style="width:100%; height:500px;"></div>
+
+    <!-- Debugging message -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            console.log("DOM fully loaded and parsed");
+
+            // Debug elements
+            console.log("State Dropdown:", document.getElementById("stateDropdown"));
+            console.log("Yearly Chart Div:", document.getElementById("yearlyChart"));
+            console.log("Monthly Chart Div:", document.getElementById("monthlyChart"));
+            console.log("State Chart Div:", document.getElementById("stateChart"));
+        });
+    </script>
+</body>
+</html>
