@@ -4,11 +4,11 @@ Instructions on interacting with Project:
 
 Our jupyter notebook is a compilation of the code we all made to analzye the data set, each visualization consists of code analyzing the data and then a labelled visualization
 in the forms of bar charts, pie charts, interactive charts, tree maps, and geographical maps, corresponding to the analyses.
-Then we have 2 html pages, one consisting of by state year-over-year data of sales and profit. You can access this page by going to the project's GitHub pages and adding /index.html (https://kabir1502.github.io/project-three/index.html). Our other HTML page is an interactive map of the United States with amrkers for each state projecting sales and profit. This can be accessed through our jupyter notebook. When running it, it will save a folder to your directory called interactive_superstore_map_with_coordinates.html. Running this on a browser will allow you to access our group's second HTML page.
+Then we have 2 html pages, one consisting of by state year-over-year data of sales and profit. You can access this page by going to the project's GitHub pages and adding /index.html (https://kabir1502.github.io/project-three/index.html). Our other HTML page is an interactive map of the United States with markers for each state projecting sales and profit. This can be accessed through our jupyter notebook. When running it, it will save a folder to your directory called interactive_superstore_map_with_coordinates.html. Running this on a browser will allow you to access our group's second HTML page.
 
 Ethical Considerations:
 
-In conducting this project, we priorized ethical considerations to ensure fairness and accuracy in our analyses. Our original data set consisted of names along with orders, so although the 
+In conducting this project, we prioritized ethical considerations to ensure fairness and accuracy in our analyses. Our original data set consisted of names along with orders, so although the 
 data was not anonymized, we employed great care to ensure it was handled responsibly and securely. We ensured that sensitive data was not misused outside the scope of our project.
 We made efforts to ensure that our biases did not take part in our analysis of the data, and ensured that no biases were introduced in our interpretation of the results. We ensured our
 findings were grounded in data-driven insights rather than subjective assumptions. The results and visualizations are provided with an emphasis on transperancy with a focus on accuracy, 
@@ -24,5 +24,5 @@ but they are one and the same.
 
 Reference for code:
 
-All code was done by members of the project. The tutor (tutoring service provided by bootcamp) assissted in generating code for the HTML and Javascript which generate 
+All code was done by members of the project. The tutor (tutoring service provided by bootcamp) assisted in generating code for the HTML and Javascript which generate 
 year-over-year sales and profit data by state.
