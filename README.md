@@ -4,7 +4,7 @@ Instructions on interacting with Project:
 
 Our jupyter notebook is a compilation of the code we all made to analzye the data set, each visualization consists of code analyzing the data and then a labelled visualization
 in the forms of bar charts, pie charts, interactive charts, tree maps, and geographical maps, corresponding to the analyses.
-Then we have 2 html pages, one consisting of by state year-over-year data of sales and profit, and the other is an interactive map showcasing the sales and profit by state. 
+Then we have 2 html pages, one consisting of by state year-over-year data of sales and profit. You can access this page by going to the project's GitHub pages and adding /index.html (https://kabir1502.github.io/project-three/index.html). Our other HTML page is an interactive map of the United States with amrkers for each state projecting sales and profit. This can be accessed through our jupyter notebook. 
 
 Ethical Considerations:
 
